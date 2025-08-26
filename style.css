@@ -1,6 +1,6 @@
 html{
     background-color:rgb(1, 66, 106);
-
+    overflow-x : hidden
 }
 h1{
      color:white;
@@ -41,6 +41,8 @@ padding:3px;
     justify-content: right;
     align-items: center;
     margin-top:-10px;
+    width:100%;
+    margin-left:-28px;
     
 }
 .gambar-psg{
@@ -82,4 +84,5 @@ width:600px;
     font-size:16px;
     font-style: italic;
     margin-top:-1px;
+
 }
